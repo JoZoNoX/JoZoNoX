@@ -1,12 +1,14 @@
 ### I live to learn, to understand, to internalize, to perfect.
 
 - 🔭 currently working ...
+
      During the day I currently work as a devops engineer, but I'm still very much at the beginning of my working life. 
      However, the opportunity has arisen for me to move away from Java, Maven and co (Java EE, JSF, Tomcat, SVN, MySQL etc.) 
      to activities ranging from Ansible, Jenkins, Docker, Virtulalization, GitOps, Kubernetes, CI/CD to some GO and shell scripting. 
      And all of that is just the beginning.
 
 - 🌱 learning ...
+
      I look forward to every challenge that lies ahead.
      At night I spent most of my time on single board computers, primarily Rasperry Pi's.
      I try to work on my own projects or I use already existing repositories and adapt them to my needs. 
@@ -16,6 +18,7 @@
 - 👯 collaborate on ...
 - 🤔 help me with ...
 - 💬 ask me about ...
+
      I attach great importance to security and data protection, both at work and in my private life.
      You realize how tedious even small projects can be, if you want to find a secure solution according to the current standards.
      I want to spread awareness for the importance of security anf privacy in all manners. 
