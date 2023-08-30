@@ -21,8 +21,7 @@
 
      I attach great importance to security and data protection, both at work and in my private life.
      You realize how tedious even small projects can be, if you want to find a secure solution according to the current standards.
-     I want to spread awareness for the importance of security anf privacy in all manners. 
-
+     I want to spread awareness for security and privacy in all areas of our digital everyday life.
      I still have a lot to learn and a lot ahead of me, but I'm looking forward to the journey.
      The journey is the destination.
      I'm looking forward to supporting others on my way and maybe even being supported even more.
